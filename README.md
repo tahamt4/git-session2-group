@@ -1,4 +1,4 @@
-# Practice for Github Session 2
+# Practice for Github Session 2 - edited by Rania
 
 This project is a simple web calculator, use it to practice Github collaboration, testing and actions.
 
